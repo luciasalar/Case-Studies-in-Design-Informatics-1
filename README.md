@@ -1,6 +1,8 @@
 # Case-Studies-in-Design-Informatics-1
 tutorial 
 
+#If you have any questions about the code, start an issue in this repo and I will answer it.
+
 This is the tutorial for case studies in design informatics 1
 
 We will use Jupyter Notebook for the demonstration, please install the notebook in you computer using the following command:
