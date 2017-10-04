@@ -75,9 +75,9 @@ plt.show()
 
 # In[365]:
 
-X1 = get_truncated_normal(mean=25, sd=1, low=10, upp=50)
-X2 = get_truncated_normal(mean=25, sd=1, low=10, upp=50)
-X3 = get_truncated_normal(mean=25, sd=1, low=10, upp=50)
+X1 = get_truncated_normal(mean=30, sd=10, low=10, upp=50)
+X2 = get_truncated_normal(mean=30, sd=10, low=10, upp=50)
+X3 = get_truncated_normal(mean=30, sd=10, low=10, upp=50)
 
 import matplotlib.pyplot as plt
 fig, ax = plt.subplots(3, sharex=True)
