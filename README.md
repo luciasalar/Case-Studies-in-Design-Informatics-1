@@ -15,4 +15,5 @@ use pip if you are using python2
 Content of each session:
 
 1. plot unimodal and bimodal distribution
-The objective of this tutorial is to learn how to observe patterns from the graphs. Understanding that sample size would affect the smoothness of a normal distribution. 
+
+#The objective of this tutorial is to learn how to observe patterns from the graphs. Understanding that sample size would affect the smoothness of a normal distribution. 
