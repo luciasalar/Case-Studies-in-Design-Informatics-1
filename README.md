@@ -1,9 +1,9 @@
-# design-case-study
+# Case-Studies-in-Design-Informatics-1
 tutorial 
 
-This is the tutorial for design case study
+This is the tutorial for case studies in design informatics 1
 
-We will use Jupyter Notebook for the demonstration, please install the notebook in you computer 
+We will use Jupyter Notebook for the demonstration, please install the notebook in you computer using the following command:
 
 # pip3 install --upgrade pip
 # pip3 install jupyter
